@@ -24,7 +24,8 @@ My team at **[Date Palm Media LLC](https://datepalm.media)** takes on agentic de
 
 **Speak Meetings** — AI-powered meeting intelligence platform, pre-GPT era. Built before large language models were a commodity. Microsoft and Google shipped their own versions when inference became viable at scale — timing, not the idea.
 
-**Cattle Suite** ([cattle](https://github.com/jdattilo/cattle-2.0) · [cow](https://github.com/jdattilo/cow-2.0) · [cowtracks](https://github.com/jdattilo/cowtracks-1.0)) — Custom test automation and performance tracking platform built for Dell's proprietary server caching hardware. Managed builds, test runs, log parsing, and performance reporting across machines. Dell open-sourced the codebase when they shut down the division.
+**Cattle Suite** — Custom test automation and performance tracking platform I built entirely for Dell's proprietary server caching hardware. Managed builds, test runs, log parsing, and performance reporting across machines. Dell open-sourced the full codebase when they shut down the division.
+Repos: [cattle](https://github.com/jdattilo/cattle-2.0) · [cow](https://github.com/jdattilo/cow-2.0) · [cowtracks](https://github.com/jdattilo/cowtracks-1.0) · [b2eb](https://github.com/jdattilo/b2eb-1.0) · [bicyclops](https://github.com/jdattilo/awesome-express-bicyclops) · [butterjunk](https://github.com/jdattilo/awesome-express-butterjunk)
 
 **[RotoEdge Pro](https://rotoedgepro.com)** — Manufacturing operations software for rotational molding facilities. Real-time production scheduling, machine tracking, and shop floor dashboards. I built the initial product; it's been in production for years.
 
