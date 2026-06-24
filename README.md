@@ -18,7 +18,7 @@ My team at **[Date Palm Media LLC](https://datepalm.media)** takes on agentic de
 | **[RebelPaint.ai](https://rebelpaint.ai)** | pre-release | AI-native creative tooling. Building through Date Palm Media LLC. |
 | **[MyPaintBuckets.com](https://mypaintbuckets.com)** | live · production | Color management tool for painters and contractors. Built and launched through Date Palm Media LLC. |
 
-**RotoEdge** — Fantasy sports analytics platform I built from scratch. It's been in continuous production for years; the company moved to in-house development during the pandemic, but the product shipped and stayed shipped. That's the bar.
+**[RotoEdge Pro](https://rotoedgepro.com)** — Manufacturing operations software for rotational molding facilities. Real-time production scheduling, machine tracking, and shop floor dashboards. I built the initial product; it's been in production for years. The company moved to in-house development, but the thing ships and runs. That's the bar.
 
 ---
 
