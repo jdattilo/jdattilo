@@ -2,7 +2,7 @@
 
 **AI development expert. Technical founder. Available for hire.**
 
-I build production systems where AI agents are first-class contributors — not demos, not autocomplete. I've been doing this long enough to know where it breaks, and to build the infrastructure that keeps it from breaking.
+I build production systems where humans and AI agents are first-class contributors — not demos, not autocomplete. I've been doing this long enough to know where it breaks, and to build the infrastructure that keeps it from breaking.
 
 My team at **[Date Palm Media LLC](https://datepalm.media)** is available for agentic development, SaaS builds, and business automation consulting. [Let's talk.](mailto:joe@datepalm.media)
 
