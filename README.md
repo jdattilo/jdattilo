@@ -4,7 +4,7 @@
 
 I build production systems where AI agents are first-class contributors — not demos, not autocomplete. I've been doing this long enough to know where it breaks, and to build the infrastructure that keeps it from breaking.
 
-My team at **[Date Palm Media LLC](https://datepalm.media)** takes on agentic development consulting, AI-native product builds, and hands-on technical advising. If you're building something serious with AI, [let's talk](mailto:joe@datepalm.media).
+My team at **[Date Palm Media LLC](https://datepalm.media)** is available for agentic development, SaaS builds, and business automation consulting. [Let's talk.](mailto:joe@datepalm.media)
 
 ---
 
@@ -27,17 +27,19 @@ My team at **[Date Palm Media LLC](https://datepalm.media)** takes on agentic de
 **Cattle Suite** — Custom test automation and performance tracking platform I built entirely for Dell's proprietary server caching hardware. Managed builds, test runs, log parsing, and performance reporting across machines. Dell open-sourced the full codebase when they shut down the division.
 Repos: [cattle](https://github.com/jdattilo/cattle-2.0) · [cow](https://github.com/jdattilo/cow-2.0) · [cowtracks](https://github.com/jdattilo/cowtracks-1.0) · [b2eb](https://github.com/jdattilo/b2eb-1.0) · [bicyclops](https://github.com/jdattilo/awesome-express-bicyclops) · [butterjunk](https://github.com/jdattilo/awesome-express-butterjunk)
 
-**[RotoEdge Pro](https://rotoedgepro.com)** — Manufacturing operations software for rotational molding facilities. Real-time production scheduling, machine tracking, and shop floor dashboards. I built the initial product; it's been in production for years.
+**[RotoEdge Pro](https://rotoedgepro.com)** — Manufacturing operations software for rotational molding facilities. Real-time production scheduling, machine tracking, and shop floor dashboards. The software ran their operations so well they were able to acquire additional factories — and what started as a custom build became a standard for the industry.
 
 ---
 
 ## Date Palm Media LLC
 
-We design and build AI-native software — from architecture through deployment. Our specialty is agentic systems: multi-agent workflows, AI infrastructure, and products that treat AI as a real engineering team member rather than a feature toggle.
+We have a long track record of building SaaS and web applications that solve real operational problems — not demos, not MVPs that get thrown away, but software that runs businesses.
 
-Most of what we build is private for clients, which is why this GitHub looks quiet. RepoHarbor is the public edge of that work.
+Our work is in process automation and business automation. The pattern is consistent: learn the problem deeply, understand how the team actually does their jobs day to day, find the friction, identify what they're already doing right, then build software that fits those flows and gets out of the way. The goal is always the same — help you scale what works, and stop fighting the parts that don't.
 
-**We're available for:** agentic workflow architecture · AI-native product builds · technical advising · hands-on implementation
+That same philosophy applies to how we build. We use the best combination of human and agentic development available to move fast and stay sharp. It's the same call we make for our clients: use the right tools, automate what should be automated, and spend human attention where it actually matters.
+
+**We're available for:** business process automation · SaaS product development · agentic workflow architecture · AI-native builds · technical advising
 
 [datepalm.media](https://datepalm.media) · [joe@datepalm.media](mailto:joe@datepalm.media)
 
