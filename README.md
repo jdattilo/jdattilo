@@ -12,9 +12,9 @@ My team at **[Date Palm Media LLC](https://datepalm.media)** takes on agentic de
 
 | Project | Status | What it is |
 |---------|--------|------------|
-| **[RepoHarbor](https://repoharbor.com)** | active · open source | Self-hosted git control plane for AI coding agents. Enforces branch protection, PR requirements, and credential custody at the transport layer. Because agents forget branches exist — I watched mine do it while I was in the room. |
-| **DaddyClaw** | in progress · open source | AI agent orchestration platform. Multi-agent, multi-provider task routing with real workflow state. |
-| **TaskHarbor** | in progress · open source | Project and task management designed for agentic workflows — the coordination layer humans and agents share. |
+| **[RepoHarbor](https://repoharbor.com)** | active · open source planned | Self-hosted git control plane for AI coding agents. Enforces branch protection, PR requirements, and credential custody at the transport layer. Because agents forget branches exist — I watched mine do it while I was in the room. |
+| **DaddyClaw** | in progress · open source planned | AI agent orchestration platform. Multi-agent, multi-provider task routing with real workflow state. |
+| **TaskHarbor** | in progress · open source planned | Project and task management designed for agentic workflows — the coordination layer humans and agents share. |
 | **[RebelPaint.ai](https://rebelpaint.ai)** | pre-release | AI-native creative tooling. Building through Date Palm Media LLC. |
 | **[MyPaintBuckets.com](https://mypaintbuckets.com)** | live · production | Color management tool for painters and contractors. Built and launched through Date Palm Media LLC. |
 
