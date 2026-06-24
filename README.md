@@ -47,4 +47,4 @@ That same philosophy applies to how we build. We use the best combination of hum
 
 ## Stack
 
-Python · FastAPI · TypeScript · React · Docker · Kubernetes · SQLite / PostgreSQL · nginx · LLM APIs
+Python · Django · FastAPI · TypeScript · React · Angular · Docker · Kubernetes · Jenkins · SQLite / PostgreSQL · nginx · LLM APIs
