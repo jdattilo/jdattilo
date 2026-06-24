@@ -18,7 +18,15 @@ My team at **[Date Palm Media LLC](https://datepalm.media)** takes on agentic de
 | **[RebelPaint.ai](https://rebelpaint.ai)** | pre-release | AI-native creative tooling. Building through Date Palm Media LLC. |
 | **[MyPaintBuckets.com](https://mypaintbuckets.com)** | live · production | Color management tool for painters and contractors. Built and launched through Date Palm Media LLC. |
 
-**[RotoEdge Pro](https://rotoedgepro.com)** — Manufacturing operations software for rotational molding facilities. Real-time production scheduling, machine tracking, and shop floor dashboards. I built the initial product; it's been in production for years. The company moved to in-house development, but the thing ships and runs. That's the bar.
+---
+
+## Notable past work
+
+**Speak Meetings** — AI-powered meeting intelligence platform, pre-GPT era. Built before large language models were a commodity. Microsoft and Google shipped their own versions when inference became viable at scale — timing, not the idea.
+
+**Cattle Suite** ([cattle](https://github.com/jdattilo/cattle-2.0) · [cow](https://github.com/jdattilo/cow-2.0) · [cowtracks](https://github.com/jdattilo/cowtracks-1.0)) — Custom test automation and performance tracking platform built for Dell's proprietary server caching hardware. Managed builds, test runs, log parsing, and performance reporting across machines. Dell open-sourced the codebase when they shut down the division.
+
+**[RotoEdge Pro](https://rotoedgepro.com)** — Manufacturing operations software for rotational molding facilities. Real-time production scheduling, machine tracking, and shop floor dashboards. I built the initial product; it's been in production for years.
 
 ---
 
