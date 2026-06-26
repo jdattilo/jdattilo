@@ -74,7 +74,11 @@ That same philosophy applies to how we build. We use the best combination of hum
 
 ### ▸ stats · insert coin ◂
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jdattilo&show_icons=true&hide_border=true&bg_color=06060e&title_color=5cefff&text_color=dffbff&icon_color=ff4dd8" alt="Joseph Dattilo's GitHub stats">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=jdattilo&show_icons=true&hide_rank=true&hide_border=true&bg_color=06060e&title_color=5cefff&text_color=dffbff&icon_color=ff4dd8" alt="Joseph Dattilo's GitHub stats">
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdattilo&layout=compact&langs_count=8&hide_border=true&bg_color=06060e&title_color=5cefff&text_color=dffbff" alt="Top languages">
+
+<br>
+
+<sub>🕹️ Most of my best work has spent years behind NDAs and in private client repos — so the public star count is basically a fresh save file. If the open-source builds are useful to you, a ⭐ is the nicest quarter you can drop in the machine.</sub>
 
 </div>
