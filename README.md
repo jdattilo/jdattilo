@@ -1,4 +1,12 @@
-# Joseph Dattilo
+<div align="center">
+
+<img src="assets/banner.png" alt="Joseph Dattilo — AI development expert, technical founder" width="100%">
+
+[![datepalm.media](https://img.shields.io/badge/datepalm.media-5cefff?style=for-the-badge&logo=googlechrome&logoColor=06060e)](https://datepalm.media)
+[![Email](https://img.shields.io/badge/joe@datepalm.media-ff4dd8?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:joe@datepalm.media)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4dff9e?style=for-the-badge&logo=linkedin&logoColor=06060e)](https://www.linkedin.com/in/joedattilo/)
+
+</div>
 
 **AI development expert. Technical founder. Available for hire.**
 
@@ -47,4 +55,30 @@ That same philosophy applies to how we build. We use the best combination of hum
 
 ## Stack
 
-Python · Django · FastAPI · TypeScript · React · Angular · Docker · Kubernetes · Jenkins · SQLite / PostgreSQL · nginx · LLM APIs
+![Python](https://img.shields.io/badge/Python-5cefff?style=flat&logo=python&logoColor=06060e)
+![Django](https://img.shields.io/badge/Django-4dff9e?style=flat&logo=django&logoColor=06060e)
+![FastAPI](https://img.shields.io/badge/FastAPI-5cefff?style=flat&logo=fastapi&logoColor=06060e)
+![TypeScript](https://img.shields.io/badge/TypeScript-ff4dd8?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-5cefff?style=flat&logo=react&logoColor=06060e)
+![Angular](https://img.shields.io/badge/Angular-ff4dd8?style=flat&logo=angular&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-5cefff?style=flat&logo=docker&logoColor=06060e)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-4dff9e?style=flat&logo=kubernetes&logoColor=06060e)
+![Jenkins](https://img.shields.io/badge/Jenkins-ff4dd8?style=flat&logo=jenkins&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-5cefff?style=flat&logo=postgresql&logoColor=06060e)
+![nginx](https://img.shields.io/badge/nginx-4dff9e?style=flat&logo=nginx&logoColor=06060e)
+![LLM APIs](https://img.shields.io/badge/LLM_APIs-ff4dd8?style=flat&logo=openai&logoColor=white)
+
+---
+
+<div align="center">
+
+### ▸ stats · insert coin ◂
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=jdattilo&show_icons=true&hide_rank=true&hide_border=true&bg_color=06060e&title_color=5cefff&text_color=dffbff&icon_color=ff4dd8" alt="Joseph Dattilo's GitHub stats">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdattilo&layout=compact&langs_count=8&hide_border=true&bg_color=06060e&title_color=5cefff&text_color=dffbff" alt="Top languages">
+
+<br>
+
+<sub>🕹️ Most of my best work has spent years behind NDAs and in private client repos — so the public star count is basically a fresh save file. If the open-source builds are useful to you, a ⭐ is the nicest quarter you can drop in the machine — other than [hiring me](mailto:joe@datepalm.media). 😉</sub>
+
+</div>
