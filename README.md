@@ -79,6 +79,6 @@ That same philosophy applies to how we build. We use the best combination of hum
 
 <br>
 
-<sub>🕹️ Most of my best work has spent years behind NDAs and in private client repos — so the public star count is basically a fresh save file. If the open-source builds are useful to you, a ⭐ is the nicest quarter you can drop in the machine.</sub>
+<sub>🕹️ Most of my best work has spent years behind NDAs and in private client repos — so the public star count is basically a fresh save file. If the open-source builds are useful to you, a ⭐ is the nicest quarter you can drop in the machine — other than [hiring me](mailto:joe@datepalm.media). 😉</sub>
 
 </div>
