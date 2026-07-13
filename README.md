@@ -1,84 +1,89 @@
-<div align="center">
+# Joseph Dattilo
 
-<img src="assets/banner.png" alt="Joseph Dattilo — AI development expert, technical founder" width="100%">
+**Engineer · Founder · AI fleet operator**  
+Lansing, Michigan
 
-[![datepalm.media](https://img.shields.io/badge/datepalm.media-5cefff?style=for-the-badge&logo=googlechrome&logoColor=06060e)](https://datepalm.media)
-[![Email](https://img.shields.io/badge/joe@datepalm.media-ff4dd8?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:joe@datepalm.media)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4dff9e?style=for-the-badge&logo=linkedin&logoColor=06060e)](https://www.linkedin.com/in/joedattilo/)
+I build production systems where humans and AI agents are first-class contributors—with the work queues, scoped credentials, approval gates, and transport-level controls required to make that safe.
 
-</div>
+I've spent more than twenty years across hardware, software, manufacturing, test, and operations. The through-line is simple: learn how the real work happens, then build the system the operation can actually run on.
 
-**AI development expert. Technical founder. Available for hire.**
+[Personal site](https://josephdattilo.com/) · [What I’m building](https://josephdattilo.com/building/) · [Open-source history](https://josephdattilo.com/open-source/) · [LinkedIn](https://www.linkedin.com/in/joedattilo/) · [Date Palm Media](https://datepalm.media/)
 
-I build production systems where humans and AI agents are first-class contributors — not demos, not autocomplete. I've been doing this long enough to know where it breaks, and to build the infrastructure that keeps it from breaking.
+## What I build
 
-My team at **[Date Palm Media LLC](https://datepalm.media)** is available for agentic development, SaaS builds, and business automation consulting. [Let's talk.](mailto:joe@datepalm.media)
+I don't start with the technology. I start where the workflow is messy and consequential: a factory floor, a painting operation, a datacenter test lab, or a software team running AI coding agents.
 
----
+I observe the work, model the real constraints, build the system of record, and introduce automation or AI behind boundaries that people can inspect and enforce.
 
-## What I'm building
+Today I'm turning that pattern into the **FleetHarbor suite**: controlled infrastructure for teams where humans and AI agents work from the same repositories, boards, and fleets.
 
-| Project | Status | What it is |
-|---------|--------|------------|
-| **RepoHarbor** | active · open source planned | Self-hosted git control plane for AI coding agents. Enforces branch protection, PR requirements, and credential custody at the transport layer. Because agents forget branches exist — I watched mine do it while I was in the room. |
-| **DaddyClaw** | in progress · open source planned | AI agent orchestration platform. Multi-agent, multi-provider task routing with real workflow state. |
-| **TaskHarbor** | in progress · open source planned | Project and task management designed for agentic workflows — the coordination layer humans and agents share. |
-| **[RebelPaint.ai](https://rebelpaint.ai)** | pre-release | Operations platform for the residential painting industry — built from the ground up to modernize how painting businesses manage projects, materials, scheduling, and growth. |
-| **[MyPaintBuckets.com](https://mypaintbuckets.com)** | live · production | Project management, material ordering, and scheduling software for residential painting businesses. Has been running in the Orlando market for years, helping painting companies stay competitive and scale. |
+## Current systems
 
----
+| Project | Purpose | Public status |
+|---|---|---|
+| **[RepoHarbor](https://repoharbor.dev/)** | A self-hosted Git control plane with transport-level branch policy, PR mediation, scoped tokens, and server-side credential custody. | Nearing general availability; Apache-2.0 core source release announced and coming soon. |
+| **[TaskHarbor](https://taskharbor.dev/)** | A shared work queue for people and agents, with atomic claim-locks, WIP limits, agent-ready queues, human-gated scoping, and board-confined tokens. | Hosted early-access track; Apache-2.0 core source release announced and coming soon. |
+| **FleetHarbor** | The fleet control plane: isolated agent pods with one scoped gateway token and server-side credential mediation. | Early-access track. |
+| **NeuroHarbor** | Local model serving and fine-tuning for sensitive fleet workloads. | In development. |
 
-## Notable past work
+<!-- Add source-repository links only after each repository is public and its license is present. -->
 
-**Speak Meetings** — AI-powered meeting intelligence platform, pre-GPT era. Built before large language models were a commodity. Microsoft and Google shipped their own versions when inference became viable at scale — timing, not the idea.
+The products form one operating loop: TaskHarbor governs what is ready to build, the fleet performs the work, and RepoHarbor governs what can ship.
 
-**Cattle Suite** — Custom test automation and performance tracking platform I built entirely for Dell's proprietary server caching hardware. Managed builds, test runs, log parsing, and performance reporting across machines. Dell open-sourced the full codebase when they shut down the division.
-Repos: [cattle](https://github.com/jdattilo/cattle-2.0) · [cow](https://github.com/jdattilo/cow-2.0) · [cowtracks](https://github.com/jdattilo/cowtracks-1.0) · [b2eb](https://github.com/jdattilo/b2eb-1.0) · [bicyclops](https://github.com/jdattilo/awesome-express-bicyclops) · [butterjunk](https://github.com/jdattilo/awesome-express-butterjunk)
+I run that loop on my own production software every working day (every product in the suite is built by the fleet it manages). [See the current-project overview.](https://josephdattilo.com/building/)
 
-**[RotoEdge Pro](https://rotoedgepro.com)** — Manufacturing operations software for rotational molding facilities. Real-time production scheduling, machine tracking, and shop floor dashboards. The software ran their operations so well they were able to acquire additional factories — and what started as a custom build became a standard for the industry.
+## Proven systems and independent authority
 
----
+### OpenPastures / Cattle Suite
 
-## Date Palm Media LLC
+**Distributed storage-test infrastructure published by Dell**
 
-We have a long track record of building SaaS and web applications that solve real operational problems — not demos, not MVPs that get thrown away, but software that runs businesses.
+While I was a senior software engineer on Dell’s Fluid Cache team, I built the Cattle Suite to coordinate multi-node storage testing: distributed execution, cluster and hardware registry, test queues, centralized logs, and build/run monitoring.
 
-Our work is in process automation and business automation. The pattern is consistent: learn the problem deeply, understand how the team actually does their jobs day to day, find the friction, identify what they're already doing right, then build software that fits those flows and gets out of the way. The goal is always the same — help you scale what works, and stop fighting the parts that don't.
+Dell officially published the suite as **OpenPastures** on May 12, 2016.
 
-That same philosophy applies to how we build. We use the best combination of human and agentic development available to move fast and stay sharp. It's the same call we make for our clients: use the right tools, automate what should be automated, and spend human attention where it actually matters.
+- **Official release:** [Dell Open Source — OpenPastures](https://opensource.dell.com/releases/openpastures/)
+- **Background and provenance:** [my open-source history](https://josephdattilo.com/open-source/)
+- **Mirrors:** [AE2 / Bicyclops](https://github.com/jdattilo/awesome-express-bicyclops) · [AE2 / Butterjunk](https://github.com/jdattilo/awesome-express-butterjunk) · [CATTLE](https://github.com/jdattilo/cattle-2.0) · [COW](https://github.com/jdattilo/cow-2.0) · [COWTRACKS](https://github.com/jdattilo/cowtracks-1.0) · [B2EB](https://github.com/jdattilo/b2eb-1.0)
 
-**We're available for:** business process automation · SaaS product development · agentic workflow architecture · AI-native builds · technical advising
+Dell’s release directory is the canonical 2016 source. The GitHub repositories are later mirrors with detailed provenance and comparison notes.
 
-[datepalm.media](https://datepalm.media) · [joe@datepalm.media](mailto:joe@datepalm.media)
+### MyPaintBuckets
 
----
+**Operational software in production**
 
-## Stack
+I co-founded **[MyPaintBuckets](https://mypaintbuckets.com/)**, the system of record for new-residential painting operations: project details, material ordering, extra-paint-order capture, scheduling, and invoicing.
 
-![Python](https://img.shields.io/badge/Python-5cefff?style=flat&logo=python&logoColor=06060e)
-![Django](https://img.shields.io/badge/Django-4dff9e?style=flat&logo=django&logoColor=06060e)
-![FastAPI](https://img.shields.io/badge/FastAPI-5cefff?style=flat&logo=fastapi&logoColor=06060e)
-![TypeScript](https://img.shields.io/badge/TypeScript-ff4dd8?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-5cefff?style=flat&logo=react&logoColor=06060e)
-![Angular](https://img.shields.io/badge/Angular-ff4dd8?style=flat&logo=angular&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-5cefff?style=flat&logo=docker&logoColor=06060e)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-4dff9e?style=flat&logo=kubernetes&logoColor=06060e)
-![Jenkins](https://img.shields.io/badge/Jenkins-ff4dd8?style=flat&logo=jenkins&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-5cefff?style=flat&logo=postgresql&logoColor=06060e)
-![nginx](https://img.shields.io/badge/nginx-4dff9e?style=flat&logo=nginx&logoColor=06060e)
-![LLM APIs](https://img.shields.io/badge/LLM_APIs-ff4dd8?style=flat&logo=openai&logoColor=white)
+It is mature software with real customers and the proving ground where the fleet’s output meets a real industry and real deadlines.
 
----
+## Earlier open-source hardware and embedded work
 
-<div align="center">
+I founded **Virtuabotix** in 2011 as an Arduino-ecosystem electronics company with in-house design and manufacturing. It became **Date Palm Media** in 2017 as the work expanded into software, automation, and product delivery.
 
-### ▸ stats · insert coin ◂
+The first representative archive project is **[DHT11LIB](https://github.com/jdattilo/DHT11LIB)**, a dependency-free Arduino library for the DHT11 temperature and humidity sensor.
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jdattilo&show_icons=true&hide_rank=true&hide_border=true&bg_color=06060e&title_color=5cefff&text_color=dffbff&icon_color=ff4dd8" alt="Joseph Dattilo's GitHub stats">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdattilo&layout=compact&langs_count=8&hide_border=true&bg_color=06060e&title_color=5cefff&text_color=dffbff" alt="Top languages">
+I maintained and extended the Virtuabotix releases, building on the library’s earlier attribution chain. It has remained public since 2011.
 
-<br>
+Additional Virtuabotix board designs, sensor libraries, firmware, examples, and schematics can join this section as they are verified and released.
 
-<sub>🕹️ Most of my best work has spent years behind NDAs and in private client repos — so the public star count is basically a fresh save file. If the open-source builds are useful to you, a ⭐ is the nicest quarter you can drop in the machine — other than [hiring me](mailto:joe@datepalm.media). 😉</sub>
+## Focus areas
 
-</div>
+- AI coding-agent infrastructure and applied production AI
+- Process automation and operational software
+- Git policy, credential mediation, and human approval systems
+- Distributed test, build, and datacenter tooling
+- Embedded hardware, firmware, semiconductor test, and manufacturing systems
+
+## Writing and evidence
+
+- [Running a fleet of AI coding agents in production](https://josephdattilo.com/writing/running-a-fleet-of-ai-coding-agents/)
+- [Current projects and public status](https://josephdattilo.com/building/)
+- [Twenty-plus-year track record](https://josephdattilo.com/track-record/)
+- [Open-source history and provenance](https://josephdattilo.com/open-source/)
+- [About Joseph Dattilo](https://josephdattilo.com/about/)
+
+## Contact
+
+For product collaboration, applied AI and automation work, technical leadership, or agent-infrastructure discussions, email **[joe@datepalm.media](mailto:joe@datepalm.media)**.
+
+Commercial delivery runs through **[Date Palm Media](https://datepalm.media/)**.
