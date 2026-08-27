@@ -1,13 +1,17 @@
 # Joseph Dattilo
 
-**Engineer · Founder · AI fleet operator**  
+**Software & systems engineer · Founder · AI fleet operator**
 Lansing, Michigan
 
 I build production systems where humans and AI agents are first-class contributors—with the work queues, scoped credentials, approval gates, and transport-level controls required to make that safe.
 
 I've spent more than twenty years across hardware, software, manufacturing, test, and operations. The through-line is simple: learn how the real work happens, then build the system the operation can actually run on.
 
-[Personal site](https://josephdattilo.com/) · [What I’m building](https://josephdattilo.com/building/) · [Open-source history](https://josephdattilo.com/open-source/) · [LinkedIn](https://www.linkedin.com/in/joedattilo/) · [Date Palm Media](https://datepalm.media/)
+This account has been mine since September 2011. If the public commit graph looks thin for a twenty-year career, that's what a private-sector career looks like from the outside—2014–2025 was mostly private-repo work. Judge me by the receipts below, not by green squares.
+
+[Personal site](https://josephdattilo.com/) · [What I'm building](https://josephdattilo.com/building/) · [Open-source history](https://josephdattilo.com/open-source/) · [LinkedIn](https://www.linkedin.com/in/joedattilo/) · [Date Palm Media](https://datepalm.media/)
+
+*(Different person from the attorney, the University of Toronto instructor, and the other software engineers who share the name—if you're looking for the one behind Date Palm Media and the FleetHarbor suite, you found him.)*
 
 ## What I build
 
@@ -34,11 +38,11 @@ I run that loop on my own production software every working day (every product i
 
 ## Proven systems and independent authority
 
-### OpenPastures / Cattle Suite
+### OpenPastures (the Cattle Suite)
 
 **Distributed storage-test infrastructure published by Dell**
 
-While I was a senior software engineer on Dell’s Fluid Cache team, I built the Cattle Suite to coordinate multi-node storage testing: distributed execution, cluster and hardware registry, test queues, centralized logs, and build/run monitoring.
+While I was a senior software engineer on Dell's Fluid Cache team, I built the Cattle Suite to coordinate multi-node storage testing: distributed execution, cluster and hardware registry, test queues, centralized logs, and build/run monitoring. I wrote essentially every line, years before AI could help.
 
 Dell officially published the suite as **OpenPastures** on May 12, 2016.
 
@@ -46,7 +50,7 @@ Dell officially published the suite as **OpenPastures** on May 12, 2016.
 - **Background and provenance:** [my open-source history](https://josephdattilo.com/open-source/)
 - **Mirrors:** [AE2 / Bicyclops](https://github.com/jdattilo/awesome-express-bicyclops) · [AE2 / Butterjunk](https://github.com/jdattilo/awesome-express-butterjunk) · [CATTLE](https://github.com/jdattilo/cattle-2.0) · [COW](https://github.com/jdattilo/cow-2.0) · [COWTRACKS](https://github.com/jdattilo/cowtracks-1.0) · [B2EB](https://github.com/jdattilo/b2eb-1.0)
 
-Dell’s release directory is the canonical 2016 source. The GitHub repositories are later mirrors with detailed provenance and comparison notes.
+Dell's release directory is the canonical 2016 source. The GitHub repositories are later mirrors with detailed provenance and comparison notes.
 
 ### MyPaintBuckets
 
@@ -54,17 +58,17 @@ Dell’s release directory is the canonical 2016 source. The GitHub repositories
 
 I co-founded **[MyPaintBuckets](https://mypaintbuckets.com/)**, the system of record for new-residential painting operations: project details, material ordering, extra-paint-order capture, scheduling, and invoicing.
 
-It is mature software with real customers and the proving ground where the fleet’s output meets a real industry and real deadlines.
+It is mature software with real customers and the proving ground where the fleet's output meets a real industry and real deadlines.
 
 ## Earlier open-source hardware and embedded work
 
 I founded **Virtuabotix** in 2011 as an Arduino-ecosystem electronics company with in-house design and manufacturing. It became **Date Palm Media** in 2017 as the work expanded into software, automation, and product delivery.
 
-The first representative archive project is **[DHT11LIB](https://github.com/jdattilo/DHT11LIB)**, a dependency-free Arduino library for the DHT11 temperature and humidity sensor.
+The flagship of that archive is **[DHT11LIB](https://github.com/jdattilo/DHT11LIB)**, a dependency-free Arduino library for the DHT11 temperature and humidity sensor. It came out of selling actual sensors to actual hobbyists who needed working code more than they needed a datasheet, and it has remained public since 2011—it outlived the company that shipped it.
 
-I maintained and extended the Virtuabotix releases, building on the library’s earlier attribution chain. It has remained public since 2011.
+More Virtuabotix-era libraries, each with a wiring-and-provenance page on my site: [versalino-library](https://github.com/jdattilo/versalino-library) · [bitarray](https://github.com/jdattilo/bitarray) · [arduino-ultrasonic](https://github.com/jdattilo/arduino-ultrasonic)
 
-Additional Virtuabotix board designs, sensor libraries, firmware, examples, and schematics can join this section as they are verified and released.
+Additional board designs, sensor libraries, firmware, examples, and schematics can join this section as they are verified and released.
 
 ## Focus areas
 
@@ -77,10 +81,15 @@ Additional Virtuabotix board designs, sensor libraries, firmware, examples, and 
 ## Writing and evidence
 
 - [Running a fleet of AI coding agents in production](https://josephdattilo.com/writing/running-a-fleet-of-ai-coding-agents/)
+- [Your agents don't need your credentials](https://josephdattilo.com/writing/your-agents-dont-need-your-credentials/)
+- [Claim locks: what breaks when humans and AI agents share a queue](https://josephdattilo.com/writing/claim-locks-humans-and-agents-one-queue/)
+- [The first job I ever automated was my own](https://josephdattilo.com/writing/the-first-job-i-automated-was-my-own/)
 - [Current projects and public status](https://josephdattilo.com/building/)
 - [Twenty-plus-year track record](https://josephdattilo.com/track-record/)
 - [Open-source history and provenance](https://josephdattilo.com/open-source/)
 - [About Joseph Dattilo](https://josephdattilo.com/about/)
+
+Off the clock I write science fantasy—[the books are real too](https://www.amazon.com/author/josephdattilo).
 
 ## Contact
 
