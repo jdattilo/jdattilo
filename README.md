@@ -13,6 +13,10 @@ This account has been mine since September 2011. If the public commit graph look
 
 *(Different person from the attorney, the University of Toronto instructor, and the other software engineers who share the name—if you're looking for the one behind Date Palm Media and the FleetHarbor suite, you found him.)*
 
+## What I am looking for
+
+An engineering manager or director role, a program or technical program manager role, or AI platform and intelligent automation work. Remote on Eastern time, or hybrid in the Lansing, Michigan area. I run a production fleet of AI coding agents and write the tooling that keeps humans and agents on the same repos and boards, and I use that fleet in my own work, including the work of finding the next role. Details and a resume: [josephdattilo.com/hire](https://josephdattilo.com/hire/).
+
 ## What I build
 
 I don't start with the technology. I start where the workflow is messy and consequential: a factory floor, a painting operation, a datacenter test lab, or a software team running AI coding agents.
@@ -25,8 +29,8 @@ Today I'm turning that pattern into the **FleetHarbor suite**: controlled infras
 
 | Project | Purpose | Public status |
 |---|---|---|
-| **[RepoHarbor](https://repoharbor.dev/)** | A self-hosted Git control plane with transport-level branch policy, PR mediation, scoped tokens, and server-side credential custody. | Nearing general availability; Apache-2.0 core source release announced and coming soon. |
-| **[TaskHarbor](https://taskharbor.dev/)** | A shared work queue for people and agents, with atomic claim-locks, WIP limits, agent-ready queues, human-gated scoping, and board-confined tokens. | Hosted early-access track; Apache-2.0 core source release announced and coming soon. |
+| **[RepoHarbor](https://repoharbor.dev/)** | A self-hosted Git control plane with transport-level branch policy, PR mediation, scoped tokens, and server-side credential custody. | Nearing general availability. The core is private today; an Apache-2.0 core release is planned and will be linked here when it is public. |
+| **[TaskHarbor](https://taskharbor.dev/)** | A shared work queue for people and agents, with atomic claim-locks, WIP limits, agent-ready queues, human-gated scoping, and board-confined tokens. | Hosted early-access track. The core is private today; an Apache-2.0 core release is planned and will be linked here when it is public. |
 | **FleetHarbor** | The fleet control plane: isolated agent pods with one scoped gateway token and server-side credential mediation. | Early-access track. |
 | **NeuroHarbor** | Local model serving and fine-tuning for sensitive fleet workloads. | In development. |
 
